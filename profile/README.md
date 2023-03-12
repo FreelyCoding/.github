@@ -19,6 +19,17 @@ BUAA 2023高工软工课设
 #### 小组名称
 无编无计组 
 
+#### 小组成员
+@Lonxmas
+
+@scongl
+
+@SOCAST
+
+@flyinglandlord
+
+@praynext
+
 #### 软件架构
 软件架构说明
 
