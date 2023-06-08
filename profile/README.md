@@ -33,19 +33,11 @@ BUAA 2023高工软工课设
 #### 软件架构
 软件架构说明
 
-#### 安装教程
+#### 安装教程与使用说明
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+见发布页[release.boat4study.work](http://release.boat4study.work)
 
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
+#### 如何参与贡献
 
 1.  Fork 代码仓库
 2.  新建 Feat_xxx 分支
